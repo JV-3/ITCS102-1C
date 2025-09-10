@@ -9,16 +9,16 @@ else:
 	print("Okay thank you, come back if you're interested in reading some manga again")
 
 if (anime == "Comedy") and (decade == '1') and (L == '1') :
-	print ("I would highly recommend this to you | Great Teacher Onizuka (GTO) | ")
+	print ("I would highly recommend this to you ("Great Teacher Onizuka (GTO)") ")
 elif (anime == "Comedy") and (decade == '2') and (L == '2') :
-	print ("I would highly recommend this to you | Yakitate Japan | ")
+	print ("I would highly recommend this to you ("Yakitate Japan") ")
 elif (anime == "Action") and (decade == '1') and (L == '1') :
-	print ("I would highly recommend this to you | Hunter X Hunter | ")
+	print ("I would highly recommend this to you ("Hunter X Hunter") ")
 elif (anime == "Action") and (decade == '2') and (L == '2') : 
-	print ("I would highly recommend this to you | Death Note |")
+	print ("I would highly recommend this to you ("Death Note") ")
 elif (anime == "Horror") and (decade == '1') and (L == '1') :
-	print ("I would highly recommend this to you | Berserk | ")
+	print ("I would highly recommend this to you ("Berserk") ")
 elif (anime == "Horror") and (decade == '2') and (L == '2') :
-	print ("I would highly recommend this to you | Tokyo Ghoul | ")
+	print ("I would highly recommend this to you ("Tokyo Ghoul") ")
 else :
 	print ("Sorry, I don't have other type of genre that I could recommend to you, SORRY! ")
