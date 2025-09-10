@@ -10,7 +10,7 @@ else:
 
 if (anime == "Comedy") and (decade == '1') and (L == '1') :
 	print ("I would highly recommend this to you | Great Teacher Onizuka (GTO) | ")
-elif (anime =="Comedy") and (decade == '2') and (L == '2') :
+elif (anime == "Comedy") and (decade == '2') and (L == '2') :
 	print ("I would highly recommend this to you | Yakitate Japan | ")
 elif (anime == "Action") and (decade == '1') and (L == '1') :
 	print ("I would highly recommend this to you | Hunter X Hunter | ")
